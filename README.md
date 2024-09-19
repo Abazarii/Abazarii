@@ -4,7 +4,7 @@ Hi there! I'm **Maryam Abazari**, and welcome to my GitHub 👋
 
 With a strong background in **SQL**, **Tableau**, **Python**, and **Excel**, I've analyzed customer behavior, pricing strategies, and client retention to help businesses maximize profits and retain valuable clients.
 
-🔍  I'm currently seeking new opportunities as a Data Analyst 🌟, so feel free to reach out and explore my portfolio and my LinkedIn page here: 
+🔍  I'm currently seeking new opportunities 🌟, so feel free to reach out and explore my portfolio and my LinkedIn page here: 
 
 - [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://abazarii.github.io/MaryamAbazari.github.io)
 
