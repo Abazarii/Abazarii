@@ -2,7 +2,7 @@ Hi there! I'm **Maryam Abazari**, and welcome to my GitHub 👋
 
 🚀  As a **Data Analyst**, I thrive on turning raw data into meaningful insights that drive business success. My passion lies in discovering 📊 **patterns**, 📈 **trends**, and 📖 **stories** hidden within data, using them to inform strategic decisions.
 
-With a strong background in **SQL**, **Tableau**, **Python**, and **Excel**, I've analyzed customer behavior, pricing strategies, and client retention to help businesses maximize profits and retain valuable clients.
+With a strong background in **SQL**, **Tableau**, **PowerBI**, **Python**, and **Excel**, I've analyzed customer behavior, pricing strategies, and client retention to help businesses maximize profits and retain valuable clients.
 
 🔍  I'm currently seeking new opportunities 🌟, so feel free to reach out and explore my portfolio and my LinkedIn page here: 
 
