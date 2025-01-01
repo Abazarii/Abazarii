@@ -10,7 +10,7 @@ With a strong background in **SQL**, **Tableau**, **PowerBI**, **Python**, and *
 
 
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-abazari-645406226)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-a-645406226/?trk=opento_sprofile_topcard)
 
 
 <!--
